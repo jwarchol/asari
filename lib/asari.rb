@@ -5,7 +5,6 @@ require "asari/exceptions"
 require "asari/geography"
 
 require "httparty"
-require "curb"
 
 require "ostruct"
 require "json"
